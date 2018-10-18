@@ -1,0 +1,44 @@
+Backspace 8
+Tab 9
+NumLK关闭时的小键盘5 12
+Enter 13
+Shift 16
+Shift(左) 160
+Shift(右) 161
+Ctrl 17
+Ctrl(左) 162
+Ctrl(右) 163
+Alt 18
+Alt(左) 164
+Alt(右) 165
+Pause 19
+CapLK 20
+Esc 27
+Spc 32
+Page Up 33
+Page Down 34
+End 35
+Home 36
+← 37
+↑ 38
+→ 39
+↓ 40
+Print Screen 44
+Insert 45
+Delete 46
+主键盘0-9 48-57
+A-Z 65-90
+S 83
+W 87
+D 68
+Windows 91
+Windows(右) 92
+小键盘0-9 96-105
+小键盘* 106
+小键盘+ 107
+小键盘- 109
+小键盘. 110
+小键盘/ 111
+F1-F12 112-123
+NumLK 144
+SrcrollLK 145
